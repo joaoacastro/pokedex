@@ -1,2 +1,13 @@
-# pokedex
-Pokedex feita durante o MAPADEV WEEK - Canal Dev em Dobro
+# Pokedex
+![]()
+### Pokedex feita durante o MAPADEV WEEK
+
+Utilizando:
+```
+HTML
+CSS
+JS
+```
+
+*Projeto em desenvolvimento*
+### Canal Dev em Dobro
