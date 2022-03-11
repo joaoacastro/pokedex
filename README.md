@@ -1,5 +1,6 @@
 # Pokedex
-![]()
+<img src="src/images/Captura de tela 2022-03-11 161927.png" width="400px">
+     
 ### Pokedex feita durante o MAPADEV WEEK
 
 Utilizando:
