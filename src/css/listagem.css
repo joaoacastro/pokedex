@@ -22,7 +22,7 @@
 
 .listagem .pokemon:hover {
     transform: scale(1.1);
-    background-color: #a5b2c0;
+    /* background-color: #a5b2c0; */
     border: 1px solid white;
 }
 
@@ -44,22 +44,46 @@
     background-color: #ddb327;
 }
 
+.listagem .pokemon.pikachu:hover{
+    background-color: #94781c;
+}
+
 .listagem .pokemon.ativo.bulbasauro{
     background-color: rgb(29, 131, 29);
+}
+
+.listagem .pokemon.bulbasauro:hover{
+    background-color: rgb(12, 68, 12);
 }
 
 .listagem .pokemon.ativo.charmander{
     background-color: #ff9100;
 }
 
+.listagem .pokemon.charmander:hover{
+    background-color: #693e04;
+}
+
 .listagem .pokemon.ativo.gyarados{
     background-color: rgb(0, 134, 134);
+}
+
+.listagem .pokemon.gyarados:hover{
+    background-color: rgb(0, 80, 80);
 }
 
 .listagem .pokemon.ativo.gengar{
     background-color: #580380;
 }
 
+.listagem .pokemon.gengar:hover{
+    background-color: #310147;
+}
+
 .listagem .pokemon.ativo.dragonite{
     background-color: #b93006;
+}
+
+.listagem .pokemon.dragonite:hover{
+    background-color: #6e1c03;
 }
