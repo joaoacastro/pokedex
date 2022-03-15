@@ -36,7 +36,30 @@
 }
 
 .listagem .pokemon.ativo {
-    background-color: #dd6127;
     transform: scale(1.1);
     border: 1px solid white;
+}
+
+.listagem .pokemon.ativo.pikachu{
+    background-color: #ddb327;
+}
+
+.listagem .pokemon.ativo.bulbasauro{
+    background-color: rgb(29, 131, 29);
+}
+
+.listagem .pokemon.ativo.charmander{
+    background-color: #ff9100;
+}
+
+.listagem .pokemon.ativo.gyarados{
+    background-color: rgb(0, 134, 134);
+}
+
+.listagem .pokemon.ativo.gengar{
+    background-color: #580380;
+}
+
+.listagem .pokemon.ativo.dragonite{
+    background-color: #b93006;
 }
