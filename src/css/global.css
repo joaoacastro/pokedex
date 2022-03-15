@@ -2,6 +2,12 @@ body {
     font-family: 'Fredoka', sans-serif;
 }
 
+footer {
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+}
+
 main {
     min-height: 100vh;
     background-color: #DADFE8;
