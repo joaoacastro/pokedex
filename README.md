@@ -1,7 +1,7 @@
 # .:|Pokedex|:.
 <img src="src/images/Captura de tela.png" width="400px">
      
-### Pokedex feita durante o MAPADEV WEEK
+### Pokedex feita durante o MAPADEV WEEK 2022
 
 Utilizando:
 <br>
